@@ -14,4 +14,4 @@ Workflow:
 4. Treat missing memory as absence from recall, not proof that something never happened.
 5. Do not expose raw transcript excerpts beyond what is needed to answer the question.
 
-Torq tools this guide uses: `memory_search`, `get_thread_context`, `get_memory_source_anchor`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `memory_search`, `get_thread_context`, `get_memory_source_anchor`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

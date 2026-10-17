@@ -7,7 +7,7 @@
     "name": "Torq Legal Labs",
     "url": "https://torqlegallabs.com"
   },
-  "homepage": "https://torqlegallabs.com/claude",
+  "homepage": "https://torqlegallabs.com/ai-assistants",
   "repository": "https://github.com/Torq-Legal-Labs/torq-claude-plugin",
   "license": "MIT",
   "keywords": [
@@ -17,6 +17,6 @@
     "criminal-defense",
     "gameplan"
   ],
-  "documentationUrl": "https://torqlegallabs.com/claude",
+  "documentationUrl": "https://torqlegallabs.com/ai-assistants",
   "privacyPolicyUrl": "https://torqlegallabs.com/privacy"
 }

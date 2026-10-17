@@ -19,7 +19,7 @@ Members of a Torq firm that has the Torq connector turned on, who hold the "Conn
 
 2. Connect the Torq connector and sign in with your Torq account: from the plugin's Connectors tab on claude.ai and in Cowork, or with `/mcp` in Claude Code.
 
-The full setup steps are at https://torqlegallabs.com/claude.
+The full setup steps are at https://torqlegallabs.com/ai-assistants.
 
 ## Use it
 

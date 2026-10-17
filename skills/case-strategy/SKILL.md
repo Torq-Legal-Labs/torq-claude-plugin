@@ -19,4 +19,4 @@ Workflow:
 5. Use kb_get_page_content for the same page_id when a recommendation needs more surrounding context than the chunk carries — never widen scope to a different page or manual to fill a gap.
 6. Present strategy, tactics, and questions as separate groups, and never present a covered recommendation without its citation attached.
 
-Torq tools this guide uses: `get_case`, `semantic_search_docs`, `kb_get_page_content`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `get_case`, `semantic_search_docs`, `kb_get_page_content`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

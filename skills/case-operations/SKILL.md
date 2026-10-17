@@ -14,4 +14,4 @@ Workflow:
 4. Never infer missing deadlines from partial data. Say which source was checked and what was absent.
 5. Mutations are separate proposed actions; this skill is read-side operating guidance.
 
-Torq tools this guide uses: `get_case`, `list_cases`, `search_cases`, `list_tasks`, `get_task`, `list_appointments`, `get_appointment`, `list_pipelines`, `get_pipeline`, `list_case_files`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `get_case`, `list_cases`, `search_cases`, `list_tasks`, `get_task`, `list_appointments`, `get_appointment`, `list_pipelines`, `get_pipeline`, `list_case_files`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

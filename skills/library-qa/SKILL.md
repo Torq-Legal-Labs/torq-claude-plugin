@@ -17,4 +17,4 @@ Workflow:
 5. If retrieved chunks conflict or only partially cover the question, say precisely which part is covered and which part is not, rather than blending in an assumption.
 6. Never present a "not covered" answer as if it were a considered legal opinion, and never present a covered answer without its citations attached.
 
-Torq tools this guide uses: `semantic_search_docs`, `kb_get_page_content`, `kb_get_page_version`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `semantic_search_docs`, `kb_get_page_content`, `kb_get_page_version`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

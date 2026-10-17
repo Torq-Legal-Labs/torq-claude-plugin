@@ -14,4 +14,4 @@ Workflow:
 4. Do not imply misconduct or credibility conclusions beyond the returned data.
 5. Keep document storage keys and raw extracted text out of the response.
 
-Torq tools this guide uses: `search_officers`, `get_officer_profile`, `get_officer_documents`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `search_officers`, `get_officer_profile`, `get_officer_documents`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

@@ -15,4 +15,4 @@ Workflow:
 5. Use list_brain_workflow_runs for approval-lifecycle or workflow-window questions, then get_brain_workflow_run for one run id.
 6. Keep report specs and run payloads summarized unless the user asks for the full recipe or audit detail.
 
-Torq tools this guide uses: `list_saved_reports`, `get_saved_report`, `list_engine_runs`, `get_latest_engine_run`, `get_engine_run_health`, `list_brain_workflow_runs`, `get_brain_workflow_run`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `list_saved_reports`, `get_saved_report`, `list_engine_runs`, `get_latest_engine_run`, `get_engine_run_health`, `list_brain_workflow_runs`, `get_brain_workflow_run`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

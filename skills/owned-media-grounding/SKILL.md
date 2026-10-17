@@ -18,4 +18,4 @@ Answer contract:
 6. Link articles to their original canonical URL. Link videos to the returned timestamp deep link.
 7. When a chunk carries warning "Verify current law", show that exact warning visibly and include its publication date. Do not restate stale material without both.
 
-Torq tools this guide uses: `semantic_search_owned_media`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `semantic_search_owned_media`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.

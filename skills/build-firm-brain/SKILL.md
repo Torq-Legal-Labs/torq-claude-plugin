@@ -27,4 +27,4 @@ Determinism and safety:
 While a section is open:
 9. Your job is to elicit the owner's answer and record it with answer_brain_section, not to fetch data. Do not call Salesforce, QuickBooks, ads, phone or any other connected-source tool to fill in, check or enrich their answer: what they tell you is the answer. If they ask an unrelated question, answer it, then bring the conversation back to the open section.
 
-Torq tools this guide uses: `resume_brain_interview`, `answer_brain_section`, `confirm_brain_section`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/claude.
+Torq tools this guide uses: `resume_brain_interview`, `answer_brain_section`, `confirm_brain_section`. They come from the Torq connector. If they are not available, Torq is not connected or the member's Torq permissions do not include them; setup is at https://torqlegallabs.com/ai-assistants.
