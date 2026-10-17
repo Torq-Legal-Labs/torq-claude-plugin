@@ -1,0 +1,22 @@
+{
+  "name": "torq-legal-labs",
+  "displayName": "Torq Legal Labs",
+  "version": "0.1.0",
+  "description": "Torq's guides for criminal-defense firm work, paired with the Torq connector: design client Gameplans, answer questions from your firm's data, follow up on cases, Local Services Ads, intake coaching and more.",
+  "author": {
+    "name": "Torq Legal Labs",
+    "url": "https://torqlegallabs.com"
+  },
+  "homepage": "https://torqlegallabs.com/claude",
+  "repository": "https://github.com/Torq-Legal-Labs/torq-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "torq",
+    "legal",
+    "law-firm",
+    "criminal-defense",
+    "gameplan"
+  ],
+  "documentationUrl": "https://torqlegallabs.com/claude",
+  "privacyPolicyUrl": "https://torqlegallabs.com/privacy"
+}

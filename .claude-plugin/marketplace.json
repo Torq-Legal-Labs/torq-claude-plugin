@@ -1,0 +1,16 @@
+{
+  "name": "torq-legal-labs",
+  "description": "The Torq Legal Labs plugin for Claude.",
+  "owner": {
+    "name": "Torq Legal Labs",
+    "email": "support@torqlegallabs.com",
+    "url": "https://torqlegallabs.com"
+  },
+  "plugins": [
+    {
+      "name": "torq-legal-labs",
+      "source": "./",
+      "description": "Torq's guides for criminal-defense firm work, paired with the Torq connector: design client Gameplans, answer questions from your firm's data, follow up on cases, Local Services Ads, intake coaching and more."
+    }
+  ]
+}
